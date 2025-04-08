@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/muhamad-airul" target="_blank">
+  <a href="www.linkedin.com/in/muhamad-airul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/rullskiee__" target="_blank">
@@ -14,7 +14,7 @@
   <a href="https://wa.me/6285755427013" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:muhamadairul133@gmail.com" target="_blank">
+  <a href="muhamadairul@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -38,29 +38,29 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="25" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="29" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="25" alt="adonisjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="29" alt="adonisjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="25" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="29" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="29" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="29" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="29" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="25" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="29" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="29" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="25" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="29" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="29" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="29" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="29" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -77,14 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/snake/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/pacman/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/snake.svg" alt="Snake animation" />
 
 ###
