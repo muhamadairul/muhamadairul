@@ -4,8 +4,8 @@
 
 <div align="center">
   <h1>👋 Hi there, I'm <span style="color:#0abde3">Muhamad Airul</span>!</h1>
-  <p>| Sometimes Life Is Funny |</p>
-<img height="100" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="matrix" />
+  <p>| Sometimes Life Is Funny |</p>  
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 About Me
+  ### 👨‍💻 About Me
 
 - 🚀 Passionate about crafting clean and efficient web apps
 - ⚙️ Tech stack: Laravel, Next.js, Go, Adonis.js, Tailwind, React, etc.
@@ -72,8 +72,4 @@
 </picture>
 
 ---
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
-</div>
 
