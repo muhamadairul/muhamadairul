@@ -5,11 +5,11 @@
 <div align="center">
   <h1>👋 Hi there, I'm <span style="color:#0abde3">Muhamad Airul</span>!</h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Somtimes+Life+is+Funny+!!!;" alt="Typing SVG" />
-  
+
+---
   <img src="https://readme-jokes.vercel.app/api?theme=dark" />
 </div>
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhamad-airul" target="_blank">
@@ -79,5 +79,3 @@
 <p align="center">
   Let's connect — whether it’s for a collaboration, freelance, or just tech talk.
 </p>
-
----
