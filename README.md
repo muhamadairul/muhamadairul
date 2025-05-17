@@ -63,7 +63,7 @@
 ### 🕹️ Fun GitHub Animations
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/snake/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muhamadairul/muhamadairul/output/snake.svg" alt="Snake animation" />
 
 <!-- Pacman animation -->
 <picture>
