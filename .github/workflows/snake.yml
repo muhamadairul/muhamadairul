@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "*/5 * * * *"
   push:
     branches:
       - main
@@ -25,6 +25,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist/snake
+          build_dir: dist/snake/snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
