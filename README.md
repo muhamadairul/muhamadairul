@@ -18,9 +18,9 @@
   <a href="https://instagram.com/rullskiee__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-  <a href="https://wa.me/6285755427013" target="_blank">
+<!--   <a href="https://wa.me/6285755427013" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
+  </a> -->
   <a href="mailto:muhamadairul133@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
