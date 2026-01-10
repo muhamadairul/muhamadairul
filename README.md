@@ -10,6 +10,9 @@
   <img src="https://readme-jokes.vercel.app/api?theme=dark" />
 </div>
 
+<div align="center">
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=muhamadiarul)
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhamad-airul" target="_blank">
